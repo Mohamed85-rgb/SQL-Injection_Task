@@ -51,7 +51,8 @@ Creating a clean, structured GitHub repository
 ## 📷 Screenshots
 
 ### Vulnerable Login Page
-![Login Page](images/login.png)
+![Login Page](Images/Vulnerable_Login_App.PNG)
 
 ### Exploit Script Output
 ![Exploit Output](Images/Script_Output.PNG)
+
