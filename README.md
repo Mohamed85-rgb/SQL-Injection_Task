@@ -54,4 +54,4 @@ Creating a clean, structured GitHub repository
 ![Login Page](images/login.png)
 
 ### Exploit Script Output
-![Exploit Output](images/output.png)
+![Exploit Output](Images/Script_Output.PNG)
